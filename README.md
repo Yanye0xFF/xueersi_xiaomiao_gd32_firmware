@@ -1,7 +1,7 @@
 # xueersi_xiaomiao_gd32_firmware
 学而思小喵掌机GD32固件
 
-基于https://github.com/ZyoungInc/xueersi-idf添加代码修改而来  
+基于https://github.com/ZyoungInc/xueersi-idf 添加代码修改而来  
 感谢大佬的辛勤工作  
 
 功能描述  
