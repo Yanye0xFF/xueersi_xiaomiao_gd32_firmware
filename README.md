@@ -7,6 +7,9 @@
 功能描述  
 正面底部Rst键添加背光调节功能，一共5档，调整后延时3秒保存到GD32内部Flash。
 
-使用方法  
+改机方法  
+见image/飞线.jpg，将原来的22欧姆电阻向右移动，另一端通过飞线连接到底部的ESP_IO0焊盘上  
+
+烧录方法  
 下载文件并解压，找到\GD32_firmware\Project\MDK-ARM\app_out.bin  
 使用jlink，daplink等等工具烧录到0x08000000地址  
