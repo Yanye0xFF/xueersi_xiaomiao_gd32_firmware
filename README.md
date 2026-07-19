@@ -1,0 +1,2 @@
+# xueersi_xiaomiao_gd32_firmware
+学而思小喵掌机GD32固件
